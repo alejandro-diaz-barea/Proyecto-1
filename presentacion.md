@@ -1,4 +1,3 @@
----
 
 ---
 # **Proyecto 1: Explorando los Fundamentos del Desarrollo Web en Entornos de Cliente**
